@@ -22,7 +22,7 @@ The model is trained on a custom banking dataset (Banking.csv) containing variou
 - Gradio
 
 ## Project Structure
-
+```sh
 📁 banking-llm/
 │
 ├── 📁 data/
@@ -36,7 +36,7 @@ The model is trained on a custom banking dataset (Banking.csv) containing variou
 │   └── adapter/                   # LoRA adapter weights directory
 │
 └── README.md                      # Project documentation
-
+```
 
 ## Setup & Training
 

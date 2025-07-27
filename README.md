@@ -29,8 +29,8 @@ The model is trained on a custom banking dataset (Banking.csv) containing variou
 │   └── Banking.csv                # Banking Q&A dataset with question-answer pairs
 │
 ├── 📁 notebooks/
-│   ├── Running_code_1.ipynb      # Training pipeline notebook
-│   └── Running_Code_Final.ipynb   # Inference and demo application notebook
+│   ├── Finetuning_Training_Code.ipynb    # Training pipeline notebook
+│   └── Finetuning_Execution_Code.ipynb   # Inference and demo application notebook
 │
 ├── 📁 models/                     # Directory for saved model weights
 │   └── adapter/                   # LoRA adapter weights directory
